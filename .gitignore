@@ -1,0 +1,4 @@
+*.js
+*.pdf
+node_modules/
+*keys.json
