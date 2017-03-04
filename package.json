@@ -9,7 +9,8 @@
   "author": "Ben Morton <ben.morton91@gmail.com> (http://bmorton.co.uk/)",
   "license": "MIT",
   "dependencies": {
-    "marked": "^0.3.6"
+    "marked": "^0.3.6",
+    "yamljs": "^0.2.8"
   },
   "devDependencies": {
     "@types/node": "^7.0.5",

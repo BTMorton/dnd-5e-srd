@@ -1,3 +1,5 @@
+import * as YAML from "yamljs";
+
 export default class Renderer {
 	private lastLevel: number = 0;
 	private firstHeader: boolean = true;
@@ -168,6 +170,14 @@ export default class Renderer {
 		this.addChildrenToObject(this.jsonObj, output);
 
 		return JSON.stringify(output, null, 4);
+	}
+
+	public getYamlOutput() {
+		const output: any = {};
+
+		this.addChildrenToObject(this.jsonObj, output);
+
+		return YAML.stringify(output, null, 4);
 	}
 
 	public getFullObject() {

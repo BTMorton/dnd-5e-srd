@@ -24,7 +24,7 @@ function writeFilePromise(fileName: string, content: string): Promise<void> {
 	});
 }
 
-function convertJson(input: string, outputFile: string, keysFile?: string): Promise<void> {
+function convertJson(input: string, outputFile: string, keysFile?: string, yamlFile?: string): Promise<void> {
 	const render = new Renderer();
 
 	marked.setOptions({
@@ -43,6 +43,10 @@ function convertJson(input: string, outputFile: string, keysFile?: string): Prom
 		let jsonStr = JSON.stringify(treeKeys, null, 4);
 
 		promises.push(writeFilePromise(keysFile, jsonStr));
+	}
+
+	if (yamlFile) {
+		promises.push(writeFilePromise(yamlFile, render.getYamlOutput()));
 	}
 
 	return Promise.all(promises).then(() => undefined);
@@ -79,7 +83,7 @@ for (let i = 0; i < files.length; i++) {
 				return reject(error);
 			}
 
-			convertJson(fileContent, "json/" + fileName + ".json");
+			convertJson(fileContent, "json/" + fileName + ".json", null, "yaml/" + fileName + ".yaml");
 
 			resolve(fileContent);
 		});
@@ -89,7 +93,7 @@ for (let i = 0; i < files.length; i++) {
 Promise.all(promises).then((fileContents: Array<string>) => {
 	const fullSRD = fileContents.join("\n\n");
 
-	convertJson(fullSRD, "5esrd.json", "5esrdkeys.json");
+	convertJson(fullSRD, "5esrd.json", "5esrdkeys.json", "5esrd.yaml");
 
 	return writeFilePromise("5esrd.md", fullSRD);
 });
