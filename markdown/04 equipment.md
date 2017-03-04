@@ -91,9 +91,9 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-#### Armor
+### Armor List
 
-*Light Armor*
+##### Light Armor
 
 | Armor          | Cost  | Armor Class (AC) | Strength | Stealth      | Weight |
 |-----------------|-------|-------------------|----------|--------------|--------|
@@ -101,7 +101,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 | Leather         | 10 gp | 11 + Dex modifier | —        | —            | 10 lb. |
 | Studded leather | 45 gp | 12 + Dex modifier | —        | —            | 13 lb. |
 
-*Medium Armor*
+##### Medium Armor
 
 | Armor      | Cost   | Armor Class (AC)         | Strength | Stealth      | Weight |
 |-------------|--------|---------------------------|----------|--------------|--------|
@@ -111,7 +111,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 | Breastplate | 400 gp | 14 + Dex modifier (max 2) | —        | —            | 20 lb. |
 | Half plate  | 750 gp | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. |
 
-*Heavy Armor*
+##### Heavy Armor
 
 | Armor     | Cost     | Armor Class (AC) | Strength | Stealth      | Weight |
 |------------|----------|-------------------|----------|--------------|--------|
@@ -120,7 +120,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 | Splint     | 200 gp   | 17                | Str 15   | Disadvantage | 60 lb. |
 | Plate      | 1,500 gp | 18                | Str 15   | Disadvantage | 65 lb. |
 
-*Shield*
+##### Shield
 
 | Armor | Cost  | Armor Class (AC) | Strength | Stealth | Weight |
 |--------|-------|-------------------|----------|---------|--------|
@@ -204,9 +204,9 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-##### Weapons
+### Weapons List
 
-Simple Melee Weapons
+##### Simple Melee Weapons
 
 | Name         | Cost | Damage          | Weight | Properties                            |
 |--------------|------|-----------------|--------|---------------------------------------|
@@ -221,7 +221,7 @@ Simple Melee Weapons
 | Sickle       | 1 gp | 1d4 slashing    | 2 lb.  | Light                                 |
 | Spear        | 1 gp | 1d6 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d8) |
 
-Simple Ranged Weapons
+##### Simple Ranged Weapons
 
 | Name            | Cost  | Damage          | Weight  | Properties                                     |
 |-----------------|-------|-----------------|---------|------------------------------------------------|
@@ -230,7 +230,7 @@ Simple Ranged Weapons
 | Shortbow        | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed          |
 | Sling           | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                      |
 
-Martial Melee Weapons
+##### Martial Melee Weapons
 
 | Name        | Cost  | Damage          | Weight | Properties                            |
 |-------------|-------|-----------------|--------|---------------------------------------|
@@ -253,7 +253,7 @@ Martial Melee Weapons
 | Warhammer   | 15 gp | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      |
 | Whip        | 2 gp  | 1d4 slashing    | 3 lb.  | Finesse, reach                        |
 
-Martial Ranged Weapons
+##### Martial Ranged Weapons
 
 | Name            | Cost  | Damage        |  Weight | Properties                                             |
 |-----------------|-------|---------------|---------|--------------------------------------------------------|

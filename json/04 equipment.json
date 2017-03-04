@@ -99,156 +99,150 @@
                     "***Chain Mail.*** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.",
                     "***Splint.*** This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.",
                     "***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body."
-                ],
-                "Armor": {
-                    "content": [
-                        "*Light Armor*",
-                        {
-                            "table": {
-                                "Armor": [
-                                    "Padded",
-                                    "Leather",
-                                    "Studded leather"
-                                ],
-                                "Cost": [
-                                    "5 gp",
-                                    "10 gp",
-                                    "45 gp"
-                                ],
-                                "Armor Class (AC)": [
-                                    "11 + Dex modifier",
-                                    "11 + Dex modifier",
-                                    "12 + Dex modifier"
-                                ],
-                                "Strength": [
-                                    "—",
-                                    "—",
-                                    "—"
-                                ],
-                                "Stealth": [
-                                    "Disadvantage",
-                                    "—",
-                                    "—"
-                                ],
-                                "Weight": [
-                                    "8 lb.",
-                                    "10 lb.",
-                                    "13 lb."
-                                ]
-                            }
-                        },
-                        "*Medium Armor*",
-                        {
-                            "table": {
-                                "Armor": [
-                                    "Hide",
-                                    "Chain shirt",
-                                    "Scale mail",
-                                    "Breastplate",
-                                    "Half plate"
-                                ],
-                                "Cost": [
-                                    "10 gp",
-                                    "50 gp",
-                                    "50 gp",
-                                    "400 gp",
-                                    "750 gp"
-                                ],
-                                "Armor Class (AC)": [
-                                    "12 + Dex modifier (max 2)",
-                                    "13 + Dex modifier (max 2)",
-                                    "14 + Dex modifier (max 2)",
-                                    "14 + Dex modifier (max 2)",
-                                    "15 + Dex modifier (max 2)"
-                                ],
-                                "Strength": [
-                                    "—",
-                                    "—",
-                                    "—",
-                                    "—",
-                                    "—"
-                                ],
-                                "Stealth": [
-                                    "—",
-                                    "—",
-                                    "Disadvantage",
-                                    "—",
-                                    "Disadvantage"
-                                ],
-                                "Weight": [
-                                    "12 lb.",
-                                    "20 lb.",
-                                    "45 lb.",
-                                    "20 lb.",
-                                    "40 lb."
-                                ]
-                            }
-                        },
-                        "*Heavy Armor*",
-                        {
-                            "table": {
-                                "Armor": [
-                                    "Ring mail",
-                                    "Chain mail",
-                                    "Splint",
-                                    "Plate"
-                                ],
-                                "Cost": [
-                                    "30 gp",
-                                    "75 gp",
-                                    "200 gp",
-                                    "1,500 gp"
-                                ],
-                                "Armor Class (AC)": [
-                                    "14",
-                                    "16",
-                                    "17",
-                                    "18"
-                                ],
-                                "Strength": [
-                                    "—",
-                                    "Str 13",
-                                    "Str 15",
-                                    "Str 15"
-                                ],
-                                "Stealth": [
-                                    "Disadvantage",
-                                    "Disadvantage",
-                                    "Disadvantage",
-                                    "Disadvantage"
-                                ],
-                                "Weight": [
-                                    "40 lb.",
-                                    "55 lb.",
-                                    "60 lb.",
-                                    "65 lb."
-                                ]
-                            }
-                        },
-                        "*Shield*",
-                        {
-                            "table": {
-                                "Armor": [
-                                    "Shield"
-                                ],
-                                "Cost": [
-                                    "10 gp"
-                                ],
-                                "Armor Class (AC)": [
-                                    "+2"
-                                ],
-                                "Strength": [
-                                    "—"
-                                ],
-                                "Stealth": [
-                                    "—"
-                                ],
-                                "Weight": [
-                                    "6 lb."
-                                ]
-                            }
-                        }
-                    ]
+                ]
+            },
+            "Armor List": {
+                "Light Armor": {
+                    "table": {
+                        "Armor": [
+                            "Padded",
+                            "Leather",
+                            "Studded leather"
+                        ],
+                        "Cost": [
+                            "5 gp",
+                            "10 gp",
+                            "45 gp"
+                        ],
+                        "Armor Class (AC)": [
+                            "11 + Dex modifier",
+                            "11 + Dex modifier",
+                            "12 + Dex modifier"
+                        ],
+                        "Strength": [
+                            "—",
+                            "—",
+                            "—"
+                        ],
+                        "Stealth": [
+                            "Disadvantage",
+                            "—",
+                            "—"
+                        ],
+                        "Weight": [
+                            "8 lb.",
+                            "10 lb.",
+                            "13 lb."
+                        ]
+                    }
+                },
+                "Medium Armor": {
+                    "table": {
+                        "Armor": [
+                            "Hide",
+                            "Chain shirt",
+                            "Scale mail",
+                            "Breastplate",
+                            "Half plate"
+                        ],
+                        "Cost": [
+                            "10 gp",
+                            "50 gp",
+                            "50 gp",
+                            "400 gp",
+                            "750 gp"
+                        ],
+                        "Armor Class (AC)": [
+                            "12 + Dex modifier (max 2)",
+                            "13 + Dex modifier (max 2)",
+                            "14 + Dex modifier (max 2)",
+                            "14 + Dex modifier (max 2)",
+                            "15 + Dex modifier (max 2)"
+                        ],
+                        "Strength": [
+                            "—",
+                            "—",
+                            "—",
+                            "—",
+                            "—"
+                        ],
+                        "Stealth": [
+                            "—",
+                            "—",
+                            "Disadvantage",
+                            "—",
+                            "Disadvantage"
+                        ],
+                        "Weight": [
+                            "12 lb.",
+                            "20 lb.",
+                            "45 lb.",
+                            "20 lb.",
+                            "40 lb."
+                        ]
+                    }
+                },
+                "Heavy Armor": {
+                    "table": {
+                        "Armor": [
+                            "Ring mail",
+                            "Chain mail",
+                            "Splint",
+                            "Plate"
+                        ],
+                        "Cost": [
+                            "30 gp",
+                            "75 gp",
+                            "200 gp",
+                            "1,500 gp"
+                        ],
+                        "Armor Class (AC)": [
+                            "14",
+                            "16",
+                            "17",
+                            "18"
+                        ],
+                        "Strength": [
+                            "—",
+                            "Str 13",
+                            "Str 15",
+                            "Str 15"
+                        ],
+                        "Stealth": [
+                            "Disadvantage",
+                            "Disadvantage",
+                            "Disadvantage",
+                            "Disadvantage"
+                        ],
+                        "Weight": [
+                            "40 lb.",
+                            "55 lb.",
+                            "60 lb.",
+                            "65 lb."
+                        ]
+                    }
+                },
+                "Shield": {
+                    "table": {
+                        "Armor": [
+                            "Shield"
+                        ],
+                        "Cost": [
+                            "10 gp"
+                        ],
+                        "Armor Class (AC)": [
+                            "+2"
+                        ],
+                        "Strength": [
+                            "—"
+                        ],
+                        "Stealth": [
+                            "—"
+                        ],
+                        "Weight": [
+                            "6 lb."
+                        ]
+                    }
                 }
             },
             "Getting Into and Out of Armor": {
@@ -321,254 +315,248 @@
                         "***Lance.*** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.",
                         "***Net.*** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.",
                         "When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make."
-                    ],
-                    "Weapons": {
-                        "content": [
-                            "Simple Melee Weapons",
-                            {
-                                "table": {
-                                    "Name": [
-                                        "Club",
-                                        "Dagger",
-                                        "Greatclub",
-                                        "Handaxe",
-                                        "Javelin",
-                                        "Light hammer",
-                                        "Mace",
-                                        "Quarterstaff",
-                                        "Sickle",
-                                        "Spear"
-                                    ],
-                                    "Cost": [
-                                        "1 sp",
-                                        "2 gp",
-                                        "2 sp",
-                                        "5 gp",
-                                        "5 sp",
-                                        "2 gp",
-                                        "5 gp",
-                                        "2 sp",
-                                        "1 gp",
-                                        "1 gp"
-                                    ],
-                                    "Damage": [
-                                        "1d4 bludgeoning",
-                                        "1d4 piercing",
-                                        "1d8 bludgeoning",
-                                        "1d6 slashing",
-                                        "1d6 piercing",
-                                        "1d4 bludgeoning",
-                                        "1d6 bludgeoning",
-                                        "1d6 bludgeoning",
-                                        "1d4 slashing",
-                                        "1d6 piercing"
-                                    ],
-                                    "Weight": [
-                                        "2 lb.",
-                                        "1 lb.",
-                                        "10 lb.",
-                                        "2 lb.",
-                                        "2 lb.",
-                                        "2 lb.",
-                                        "4 lb.",
-                                        "4 lb.",
-                                        "2 lb.",
-                                        "3 lb."
-                                    ],
-                                    "Properties": [
-                                        "Light",
-                                        "Finesse, light, thrown (range 20/60)",
-                                        "Two-handed",
-                                        "Light, thrown (range 20/60)",
-                                        "Thrown (range 30/120)",
-                                        "Light, thrown (range 20/60)",
-                                        "—",
-                                        "Versatile (1d8)",
-                                        "Light",
-                                        "Thrown (range 20/60), versatile (1d8)"
-                                    ]
-                                }
-                            },
-                            "Simple Ranged Weapons",
-                            {
-                                "table": {
-                                    "Name": [
-                                        "Crossbow, light",
-                                        "Dart",
-                                        "Shortbow",
-                                        "Sling"
-                                    ],
-                                    "Cost": [
-                                        "25 gp",
-                                        "5 cp",
-                                        "25 gp",
-                                        "1 sp"
-                                    ],
-                                    "Damage": [
-                                        "1d8 piercing",
-                                        "1d4 piercing",
-                                        "1d6 piercing",
-                                        "1d4 bludgeoning"
-                                    ],
-                                    "Weight": [
-                                        "5 lb.",
-                                        "1/4 lb.",
-                                        "2 lb.",
-                                        "—"
-                                    ],
-                                    "Properties": [
-                                        "Ammunition (range 80/320), loading, two-handed",
-                                        "Finesse, thrown (range 20/60)",
-                                        "Ammunition (range 80/320), two-handed",
-                                        "Ammunition (range 30/120)"
-                                    ]
-                                }
-                            },
-                            "Martial Melee Weapons",
-                            {
-                                "table": {
-                                    "Name": [
-                                        "Battleaxe",
-                                        "Flail",
-                                        "Glaive",
-                                        "Greataxe",
-                                        "Greatsword",
-                                        "Halberd",
-                                        "Lance",
-                                        "Longsword",
-                                        "Maul",
-                                        "Morningstar",
-                                        "Pike",
-                                        "Rapier",
-                                        "Scimitar",
-                                        "Shortsword",
-                                        "Trident",
-                                        "War pick",
-                                        "Warhammer",
-                                        "Whip"
-                                    ],
-                                    "Cost": [
-                                        "10 gp",
-                                        "10 gp",
-                                        "20 gp",
-                                        "30 gp",
-                                        "50 gp",
-                                        "20 gp",
-                                        "10 gp",
-                                        "15 gp",
-                                        "10 gp",
-                                        "15 gp",
-                                        "5 gp",
-                                        "25 gp",
-                                        "25 gp",
-                                        "10 gp",
-                                        "5 gp",
-                                        "5 gp",
-                                        "15 gp",
-                                        "2 gp"
-                                    ],
-                                    "Damage": [
-                                        "1d8 slashing",
-                                        "1d8 bludgeoning",
-                                        "1d10 slashing",
-                                        "1d12 slashing",
-                                        "2d6 slashing",
-                                        "1d10 slashing",
-                                        "1d12 piercing",
-                                        "1d8 slashing",
-                                        "2d6 bludgeoning",
-                                        "1d8 piercing",
-                                        "1d10 piercing",
-                                        "1d8 piercing",
-                                        "1d6 slashing",
-                                        "1d6 piercing",
-                                        "1d6 piercing",
-                                        "1d8 piercing",
-                                        "1d8 bludgeoning",
-                                        "1d4 slashing"
-                                    ],
-                                    "Weight": [
-                                        "4 lb.",
-                                        "2 lb.",
-                                        "6 lb.",
-                                        "7 lb.",
-                                        "6 lb.",
-                                        "6 lb.",
-                                        "6 lb.",
-                                        "3 lb.",
-                                        "10 lb.",
-                                        "4 lb.",
-                                        "18 lb.",
-                                        "2 lb.",
-                                        "3 lb.",
-                                        "2 lb.",
-                                        "4 lb.",
-                                        "2 lb.",
-                                        "2 lb.",
-                                        "3 lb."
-                                    ],
-                                    "Properties": [
-                                        "Versatile (1d10)",
-                                        "—",
-                                        "Heavy, reach, two-handed",
-                                        "Heavy, two-handed",
-                                        "Heavy, two-handed",
-                                        "Heavy, reach, two-handed",
-                                        "Reach, special",
-                                        "Versatile (1d10)",
-                                        "Heavy, two-handed",
-                                        "—",
-                                        "Heavy, reach, two-handed",
-                                        "Finesse",
-                                        "Finesse, light",
-                                        "Finesse, light",
-                                        "Thrown (range 20/60), versatile (1d8)",
-                                        "—",
-                                        "Versatile (1d10)",
-                                        "Finesse, reach"
-                                    ]
-                                }
-                            },
-                            "Martial Ranged Weapons",
-                            {
-                                "table": {
-                                    "Name": [
-                                        "Blowgun",
-                                        "Crossbow, hand",
-                                        "Crossbow, heavy",
-                                        "Longbow",
-                                        "Net"
-                                    ],
-                                    "Cost": [
-                                        "10 gp",
-                                        "75 gp",
-                                        "50 gp",
-                                        "50 gp",
-                                        "1 gp"
-                                    ],
-                                    "Damage": [
-                                        "1 piercing",
-                                        "1d6 piercing",
-                                        "1d10 piercing",
-                                        "1d8 piercing",
-                                        "—"
-                                    ],
-                                    "Weight": [
-                                        "1 lb.",
-                                        "3 lb.",
-                                        "18 lb.",
-                                        "2 lb.",
-                                        "3 lb."
-                                    ],
-                                    "Properties": [
-                                        "Ammunition (range 25/100), loading",
-                                        "Ammunition (range 30/120), light, loading",
-                                        "Ammunition (range 100/400), heavy, loading, two-handed",
-                                        "Ammunition (range 150/600), heavy, two-handed",
-                                        "Special, thrown (range 5/15)"
-                                    ]
-                                }
-                            }
+                    ]
+                }
+            },
+            "Weapons List": {
+                "Simple Melee Weapons": {
+                    "table": {
+                        "Name": [
+                            "Club",
+                            "Dagger",
+                            "Greatclub",
+                            "Handaxe",
+                            "Javelin",
+                            "Light hammer",
+                            "Mace",
+                            "Quarterstaff",
+                            "Sickle",
+                            "Spear"
+                        ],
+                        "Cost": [
+                            "1 sp",
+                            "2 gp",
+                            "2 sp",
+                            "5 gp",
+                            "5 sp",
+                            "2 gp",
+                            "5 gp",
+                            "2 sp",
+                            "1 gp",
+                            "1 gp"
+                        ],
+                        "Damage": [
+                            "1d4 bludgeoning",
+                            "1d4 piercing",
+                            "1d8 bludgeoning",
+                            "1d6 slashing",
+                            "1d6 piercing",
+                            "1d4 bludgeoning",
+                            "1d6 bludgeoning",
+                            "1d6 bludgeoning",
+                            "1d4 slashing",
+                            "1d6 piercing"
+                        ],
+                        "Weight": [
+                            "2 lb.",
+                            "1 lb.",
+                            "10 lb.",
+                            "2 lb.",
+                            "2 lb.",
+                            "2 lb.",
+                            "4 lb.",
+                            "4 lb.",
+                            "2 lb.",
+                            "3 lb."
+                        ],
+                        "Properties": [
+                            "Light",
+                            "Finesse, light, thrown (range 20/60)",
+                            "Two-handed",
+                            "Light, thrown (range 20/60)",
+                            "Thrown (range 30/120)",
+                            "Light, thrown (range 20/60)",
+                            "—",
+                            "Versatile (1d8)",
+                            "Light",
+                            "Thrown (range 20/60), versatile (1d8)"
+                        ]
+                    }
+                },
+                "Simple Ranged Weapons": {
+                    "table": {
+                        "Name": [
+                            "Crossbow, light",
+                            "Dart",
+                            "Shortbow",
+                            "Sling"
+                        ],
+                        "Cost": [
+                            "25 gp",
+                            "5 cp",
+                            "25 gp",
+                            "1 sp"
+                        ],
+                        "Damage": [
+                            "1d8 piercing",
+                            "1d4 piercing",
+                            "1d6 piercing",
+                            "1d4 bludgeoning"
+                        ],
+                        "Weight": [
+                            "5 lb.",
+                            "1/4 lb.",
+                            "2 lb.",
+                            "—"
+                        ],
+                        "Properties": [
+                            "Ammunition (range 80/320), loading, two-handed",
+                            "Finesse, thrown (range 20/60)",
+                            "Ammunition (range 80/320), two-handed",
+                            "Ammunition (range 30/120)"
+                        ]
+                    }
+                },
+                "Martial Melee Weapons": {
+                    "table": {
+                        "Name": [
+                            "Battleaxe",
+                            "Flail",
+                            "Glaive",
+                            "Greataxe",
+                            "Greatsword",
+                            "Halberd",
+                            "Lance",
+                            "Longsword",
+                            "Maul",
+                            "Morningstar",
+                            "Pike",
+                            "Rapier",
+                            "Scimitar",
+                            "Shortsword",
+                            "Trident",
+                            "War pick",
+                            "Warhammer",
+                            "Whip"
+                        ],
+                        "Cost": [
+                            "10 gp",
+                            "10 gp",
+                            "20 gp",
+                            "30 gp",
+                            "50 gp",
+                            "20 gp",
+                            "10 gp",
+                            "15 gp",
+                            "10 gp",
+                            "15 gp",
+                            "5 gp",
+                            "25 gp",
+                            "25 gp",
+                            "10 gp",
+                            "5 gp",
+                            "5 gp",
+                            "15 gp",
+                            "2 gp"
+                        ],
+                        "Damage": [
+                            "1d8 slashing",
+                            "1d8 bludgeoning",
+                            "1d10 slashing",
+                            "1d12 slashing",
+                            "2d6 slashing",
+                            "1d10 slashing",
+                            "1d12 piercing",
+                            "1d8 slashing",
+                            "2d6 bludgeoning",
+                            "1d8 piercing",
+                            "1d10 piercing",
+                            "1d8 piercing",
+                            "1d6 slashing",
+                            "1d6 piercing",
+                            "1d6 piercing",
+                            "1d8 piercing",
+                            "1d8 bludgeoning",
+                            "1d4 slashing"
+                        ],
+                        "Weight": [
+                            "4 lb.",
+                            "2 lb.",
+                            "6 lb.",
+                            "7 lb.",
+                            "6 lb.",
+                            "6 lb.",
+                            "6 lb.",
+                            "3 lb.",
+                            "10 lb.",
+                            "4 lb.",
+                            "18 lb.",
+                            "2 lb.",
+                            "3 lb.",
+                            "2 lb.",
+                            "4 lb.",
+                            "2 lb.",
+                            "2 lb.",
+                            "3 lb."
+                        ],
+                        "Properties": [
+                            "Versatile (1d10)",
+                            "—",
+                            "Heavy, reach, two-handed",
+                            "Heavy, two-handed",
+                            "Heavy, two-handed",
+                            "Heavy, reach, two-handed",
+                            "Reach, special",
+                            "Versatile (1d10)",
+                            "Heavy, two-handed",
+                            "—",
+                            "Heavy, reach, two-handed",
+                            "Finesse",
+                            "Finesse, light",
+                            "Finesse, light",
+                            "Thrown (range 20/60), versatile (1d8)",
+                            "—",
+                            "Versatile (1d10)",
+                            "Finesse, reach"
+                        ]
+                    }
+                },
+                "Martial Ranged Weapons": {
+                    "table": {
+                        "Name": [
+                            "Blowgun",
+                            "Crossbow, hand",
+                            "Crossbow, heavy",
+                            "Longbow",
+                            "Net"
+                        ],
+                        "Cost": [
+                            "10 gp",
+                            "75 gp",
+                            "50 gp",
+                            "50 gp",
+                            "1 gp"
+                        ],
+                        "Damage": [
+                            "1 piercing",
+                            "1d6 piercing",
+                            "1d10 piercing",
+                            "1d8 piercing",
+                            "—"
+                        ],
+                        "Weight": [
+                            "1 lb.",
+                            "3 lb.",
+                            "18 lb.",
+                            "2 lb.",
+                            "3 lb."
+                        ],
+                        "Properties": [
+                            "Ammunition (range 25/100), loading",
+                            "Ammunition (range 30/120), light, loading",
+                            "Ammunition (range 100/400), heavy, loading, two-handed",
+                            "Ammunition (range 150/600), heavy, two-handed",
+                            "Special, thrown (range 5/15)"
                         ]
                     }
                 }

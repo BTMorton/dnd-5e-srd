@@ -3389,9 +3389,9 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-#### Armor
+### Armor List
 
-*Light Armor*
+##### Light Armor
 
 | Armor          | Cost  | Armor Class (AC) | Strength | Stealth      | Weight |
 |-----------------|-------|-------------------|----------|--------------|--------|
@@ -3399,7 +3399,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 | Leather         | 10 gp | 11 + Dex modifier | —        | —            | 10 lb. |
 | Studded leather | 45 gp | 12 + Dex modifier | —        | —            | 13 lb. |
 
-*Medium Armor*
+##### Medium Armor
 
 | Armor      | Cost   | Armor Class (AC)         | Strength | Stealth      | Weight |
 |-------------|--------|---------------------------|----------|--------------|--------|
@@ -3409,7 +3409,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 | Breastplate | 400 gp | 14 + Dex modifier (max 2) | —        | —            | 20 lb. |
 | Half plate  | 750 gp | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. |
 
-*Heavy Armor*
+##### Heavy Armor
 
 | Armor     | Cost     | Armor Class (AC) | Strength | Stealth      | Weight |
 |------------|----------|-------------------|----------|--------------|--------|
@@ -3418,7 +3418,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 | Splint     | 200 gp   | 17                | Str 15   | Disadvantage | 60 lb. |
 | Plate      | 1,500 gp | 18                | Str 15   | Disadvantage | 65 lb. |
 
-*Shield*
+##### Shield
 
 | Armor | Cost  | Armor Class (AC) | Strength | Stealth | Weight |
 |--------|-------|-------------------|----------|---------|--------|
@@ -3502,9 +3502,9 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-##### Weapons
+### Weapons List
 
-Simple Melee Weapons
+##### Simple Melee Weapons
 
 | Name         | Cost | Damage          | Weight | Properties                            |
 |--------------|------|-----------------|--------|---------------------------------------|
@@ -3519,7 +3519,7 @@ Simple Melee Weapons
 | Sickle       | 1 gp | 1d4 slashing    | 2 lb.  | Light                                 |
 | Spear        | 1 gp | 1d6 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d8) |
 
-Simple Ranged Weapons
+##### Simple Ranged Weapons
 
 | Name            | Cost  | Damage          | Weight  | Properties                                     |
 |-----------------|-------|-----------------|---------|------------------------------------------------|
@@ -3528,7 +3528,7 @@ Simple Ranged Weapons
 | Shortbow        | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed          |
 | Sling           | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                      |
 
-Martial Melee Weapons
+##### Martial Melee Weapons
 
 | Name        | Cost  | Damage          | Weight | Properties                            |
 |-------------|-------|-----------------|--------|---------------------------------------|
@@ -3551,7 +3551,7 @@ Martial Melee Weapons
 | Warhammer   | 15 gp | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      |
 | Whip        | 2 gp  | 1d4 slashing    | 3 lb.  | Finesse, reach                        |
 
-Martial Ranged Weapons
+##### Martial Ranged Weapons
 
 | Name            | Cost  | Damage        |  Weight | Properties                                             |
 |-----------------|-------|---------------|---------|--------------------------------------------------------|
@@ -4701,6 +4701,9 @@ You can spend time between adventures learning a new language or training with a
 First, you must find an instructor willing to teach you. The GM determines how long it takes, and whether one or more ability checks are required.
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
+
+Combat
+======
 
 The Order of Combat
 -------------------
@@ -12068,7 +12071,7 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
 Traps
------
+=====
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
@@ -12245,7 +12248,7 @@ A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a
 Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the *sympathy* aspect of the *antipathy/sympathy* spell. A successful *dispel magic* (DC 18) removes this enchantment.
 
 Diseases
---------
+========
 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
 
@@ -12288,7 +12291,7 @@ A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
 Madness
--------
+=======
 
 In a typical campaign, characters aren’t driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
@@ -12362,7 +12365,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.
 
 Objects
--------
+=======
 
 When characters need to saw through ropes, shatter a window, or smash a vampire’s coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character’s success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
@@ -12404,7 +12407,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 | Large (cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
 
 Poisons
--------
+=======
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
 
@@ -15356,6 +15359,14 @@ If a monster is naturally blind, it has a parenthetical note to this effect, ind
 
 A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
+##### Armor, Weapon, and Tool Proficiencies
+
+Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
+
+For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
+
+See the *Player’s Handbook* for rules on using armor or weapons without proficiency.
+
 #### Tremorsense
 
 A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
@@ -15363,14 +15374,6 @@ A monster with tremorsense can detect and pinpoint the origin of vibrations with
 #### Truesight
 
 A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
-
-### Armor, Weapon, and Tool Proficiencies
-
-Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
-
-For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
-
-See the *Player’s Handbook* for rules on using armor or weapons without proficiency.
 
 ### Languages
 
@@ -23870,23 +23873,7 @@ It’s said that something wild lurks in the heart of every soul, a space that t
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-#### The Greek Pantheon
-
-The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they’ve made a place for themselves inside the human heart, too.
-
-#### The Egyptian Pantheon
-
-These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma’at—the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
-
-The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
-
-#### The Norse Pantheon
-
-Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring—this is the land of the Vikings, the home of the Norse pantheon. It’s a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven’t been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it’s surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
-
-The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
-
-#### Celtic Deities
+##### Celtic Deities
 
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
 |---------------------------------------------------|-----------|-------------------|------------------------------------|
@@ -23905,7 +23892,11 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Oghma, god of speech and writing                  | NG        | Knowledge         | Unfurled scroll                    |
 | Silvanus, god of nature and forests               | N         | Nature            | Summer oak tree                    |
 
-#### Greek Deities
+#### The Greek Pantheon
+
+The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they’ve made a place for themselves inside the human heart, too.
+
+##### Greek Deities
 
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
 |--------------------------------------------|-----------|------------------------|---------------------------------------|
@@ -23929,8 +23920,38 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Poseidon, god of the sea and earthquakes   | CN        | Tempest                | Trident                               |
 | Tyche, goddess of good fortune             | N         | Trickery               | Red pentagram                         |
 
+#### The Egyptian Pantheon
 
-#### Norse Deities
+These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma’at—the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
+
+The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
+
+##### Egyptian Deities
+
+| Deity                                           | Alignment | Suggested Domains        | Symbol                               |
+|-------------------------------------------------|-----------|--------------------------|--------------------------------------|
+| Re-Horakhty, god of the sun, ruler of the gods  | LG        | Life, Light              | Solar disk encircled by serpent      |
+| Anubis, god of judgment and death               | LN        | Death                    | Black jackal                         |
+| Apep, god of evil, fire, and serpents           | NE        | Trickery                 | Flaming snake                        |
+| Bast, goddess of cats and vengeance             | CG        | War                      | Cat                                  |
+| Bes, god of luck and music                      | CN        | Trickery                 | Image of the misshapen deity         |
+| Hathor, goddess of love, music, and motherhood  | NG        | Life, Light              | Horned cowʼs head with lunar disk    |
+| Imhotep, god of crafts and medicine             | NG        | Knowledge                | Step pyramid                         |
+| Isis, goddess of fertility and magic            | NG        | Knowledge, Life          | Ankh and star                        |
+| Nephthys, goddess of death and grief            | CG        | Death                    | Horns around a lunar disk            |
+| Osiris, god of nature and the underworld        | LG        | Life, Nature             | Crook and flail                      |
+| Ptah, god of crafts, knowledge, and secrets     | LN        | Knowledge                | Bull                                 |
+| Set, god of darkness and desert storms          | CE        | Death, Tempest, Trickery | Coiled cobra                         |
+| Sobek, god of water and crocodiles              | LE        | Nature, Tempest          | Crocodile head with horns and plumes |
+| Thoth, god of knowledge and wisdom              | N         | Knowledge                | Ibis                                 |
+
+#### The Norse Pantheon
+
+Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring—this is the land of the Vikings, the home of the Norse pantheon. It’s a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven’t been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it’s surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
+
+The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
+
+##### Norse Deities
 
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
 |-------------------------------------------|-----------|-------------------|-----------------------------------|

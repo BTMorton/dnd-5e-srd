@@ -2,27 +2,38 @@ var marked = require("marked");
 import Renderer from "./renderer";
 import * as fs from "fs";
 
-function addChildKeys(source, dest) {
+function addChildKeys(source: any, dest: any): void {
 	for (let key in source) {
 		dest[key] = {};
+
 		if (source[key].children) {
 			addChildKeys(source[key].children, dest[key]);
 		}
 	}
 }
 
-function convertJson(inputFile: string, outputFile: string, keysFile?: string): void {
+function writeFilePromise(fileName: string, content: string): Promise<void> {
+	return new Promise<void>((resolve, reject) => {
+		fs.writeFile(fileName, content, (error: Error) => {
+			if (error) {
+				reject(error);
+			}
+
+			resolve();
+		});
+	});
+}
+
+function convertJson(input: string, outputFile: string, keysFile?: string): Promise<void> {
 	const render = new Renderer();
 
 	marked.setOptions({
 		renderer: render
 	});
 
-	const srd = fs.readFileSync(inputFile, { encoding: "utf-8" });
+	marked(input);
 
-	marked(srd);
-
-	fs.writeFileSync(outputFile, render.getOutput());
+	const promises: Array<Promise<void>> = [ writeFilePromise(outputFile, render.getOutput()) ];
 
 	if (keysFile) {
 		let treeKeys: any = {};
@@ -30,11 +41,12 @@ function convertJson(inputFile: string, outputFile: string, keysFile?: string): 
 		addChildKeys(render.getFullObject().children, treeKeys);
 
 		let jsonStr = JSON.stringify(treeKeys, null, 4);
-		fs.writeFileSync(keysFile, jsonStr);
-	}
-}
 
-convertJson("5esrd.md", "5esrd.json", "5esrdkeys.json");
+		promises.push(writeFilePromise(keysFile, jsonStr));
+	}
+
+	return Promise.all(promises).then(() => undefined);
+}
 
 const files = [
 	"legal",
@@ -56,8 +68,28 @@ const files = [
 	"npcs"
 ];
 
+const promises: Array<Promise<string>> = [];
+
 for (let i = 0; i < files.length; i++) {
 	const fileName: string = (i < 10 ? "0" + i : i) + " " + files[i];
 
-	convertJson("markdown/" + fileName + ".md", "json/" + fileName + ".json");
+	promises.push(new Promise((resolve, reject) => {
+		fs.readFile("markdown/" + fileName + ".md", { encoding: "utf-8" }, (error: Error, fileContent: string) => {
+			if (error) {
+				return reject(error);
+			}
+
+			convertJson(fileContent, "json/" + fileName + ".json");
+
+			resolve(fileContent);
+		});
+	}));
 }
+
+Promise.all(promises).then((fileContents: Array<string>) => {
+	const fullSRD = fileContents.join("\n\n");
+
+	convertJson(fullSRD, "5esrd.json", "5esrdkeys.json");
+
+	return writeFilePromise("5esrd.md", fullSRD);
+});

@@ -1,5 +1,5 @@
 Traps
------
+=====
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
@@ -176,7 +176,7 @@ A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a
 Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the *sympathy* aspect of the *antipathy/sympathy* spell. A successful *dispel magic* (DC 18) removes this enchantment.
 
 Diseases
---------
+========
 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
 
@@ -219,7 +219,7 @@ A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
 Madness
--------
+=======
 
 In a typical campaign, characters aren’t driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
@@ -293,7 +293,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.
 
 Objects
--------
+=======
 
 When characters need to saw through ropes, shatter a window, or smash a vampire’s coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character’s success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
@@ -335,7 +335,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 | Large (cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
 
 Poisons
--------
+=======
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
 
