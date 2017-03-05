@@ -79,7 +79,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
 
-### Range
+### Spell Range
 
 The target of a spell must be within the spell’s range. For a spell like *magic missile*, the target is a creature. For a spell like *fireball*, the target is the point in space where the ball of fire erupts.
 
@@ -184,13 +184,13 @@ You select a sphere’s point of origin, and the sphere extends outward from tha
 
 A sphere’s point of origin is included in the sphere’s area of effect.
 
-### Saving Throws
+### Spell Saving Throws
 
 Many spells specify that a target can make a saving throw to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
 
 The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.
 
-### Attack Rolls
+### Spell Attack Rolls
 
 Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
 

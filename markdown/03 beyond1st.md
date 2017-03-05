@@ -76,11 +76,11 @@ You gain the hit points from your new class as described for levels after 1st. Y
 
 You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
-### Proficiency Bonus
+### Multiclassing Proficiency Bonus
 
 Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th- level character, which is +3.
 
-### Proficiencies
+### Multiclassing Proficiencies
 
 When you gain your first level in a class other than your initial class, you gain only some of new class’s starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
@@ -101,7 +101,7 @@ When you gain your first level in a class other than your initial class, you gai
 | Warlock   | Light armor, simple weapons                                                                                |
 | Wizard    | —                                                                                                          |
 
-### Class Features
+### Multiclassing Class Features
 
 When you gain a new level in a class, you get its features for that level. You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
