@@ -42,7 +42,9 @@
         "Awakened Shrub": {
             "content": [
                 "*Small plant, unaligned*",
-                "**Armor Class** 9 **Hit Points** 10 (3d6) **Speed** 20 ft.",
+                "**Armor Class** 9",
+                "**Hit Points** 10 (3d6)",
+                "**Speed** 20 ft.",
                 {
                     "table": {
                         "STR": [
@@ -1649,7 +1651,9 @@
         "Giant Rat": {
             "content": [
                 "*Small beast, unaligned*",
-                "**Armor Class** 12 **Hit Points** 7 (2d6) **Speed** 30 ft.",
+                "**Armor Class** 12",
+                "**Hit Points** 7 (2d6)",
+                "**Speed** 30 ft.",
                 {
                     "table": {
                         "STR": [
@@ -1960,7 +1964,9 @@
         "Giant Weasel": {
             "content": [
                 "*Medium beast, unaligned*",
-                "**Armor Class** 13 **Hit Points** 9 (2d8) **Speed** 40 ft.",
+                "**Armor Class** 13",
+                "**Hit Points** 9 (2d8)",
+                "**Speed** 40 ft.",
                 {
                     "table": {
                         "STR": [
@@ -2185,7 +2191,9 @@
         "Jackal": {
             "content": [
                 "*Small beast, unaligned*",
-                "**Armor Class** 12 **Hit Points** 3 (1d6) **Speed** 40 ft.",
+                "**Armor Class** 12",
+                "**Hit Points** 3 (1d6)",
+                "**Speed** 40 ft.",
                 {
                     "table": {
                         "STR": [
@@ -2718,8 +2726,28 @@
                 "**Armor Class** 13",
                 "**Hit Points** 1 (1d4 − 1)",
                 "**Speed** 0 ft., swim 40 ft.",
-                "**STR DEX CON**",
-                "2 (−4) 16 (+3) 9 (−1)",
+                {
+                    "table": {
+                        "STR": [
+                            "2 (−4)"
+                        ],
+                        "DEX": [
+                            "16 (+3)"
+                        ],
+                        "CON": [
+                            "9 (−1)"
+                        ],
+                        "INT": [
+                            "1 (−5)"
+                        ],
+                        "WIS": [
+                            "7 (-2)"
+                        ],
+                        "CHA": [
+                            "2 (−4)"
+                        ]
+                    }
+                },
                 "**Senses** darkvision 60 ft., passive Perception 8",
                 "**Languages** —",
                 "**Challenge** 0 (10 XP)",
@@ -3063,7 +3091,9 @@
         "Swarm of Bats": {
             "content": [
                 "*Medium swarm of Tiny beasts, unaligned*",
-                "**Armor Class** 12 **Hit Points** 22 (5d8) **Speed** 0 ft., fly 30 ft.",
+                "**Armor Class** 12",
+                "**Hit Points** 22 (5d8)",
+                "**Speed** 0 ft., fly 30 ft.",
                 {
                     "table": {
                         "STR": [

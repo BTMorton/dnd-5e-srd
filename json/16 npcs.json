@@ -13,7 +13,9 @@
         "Acolyte": {
             "content": [
                 "*Medium humanoid (any race), any alignment*",
-                "**Armor Class** 10 **Hit Points** 9 (2d8) **Speed** 30 ft.",
+                "**Armor Class** 10",
+                "**Hit Points** 9 (2d8)",
+                "**Speed** 30 ft.",
                 {
                     "table": {
                         "STR": [
@@ -254,7 +256,9 @@
         "Commoner": {
             "content": [
                 "*Medium humanoid (any race), any alignment*",
-                "**Armor Class** 10 **Hit Points** 4 (1d8) **Speed** 30 ft.",
+                "**Armor Class** 10",
+                "**Hit Points** 4 (1d8)",
+                "**Speed** 30 ft.",
                 {
                     "table": {
                         "STR": [

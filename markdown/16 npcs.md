@@ -19,7 +19,11 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 *Medium humanoid (any race), any alignment*
 
-**Armor Class** 10 **Hit Points** 9 (2d8) **Speed** 30 ft.
+**Armor Class** 10
+
+**Hit Points** 9 (2d8)
+
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -240,7 +244,11 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 *Medium humanoid (any race), any alignment*
 
-**Armor Class** 10 **Hit Points** 4 (1d8) **Speed** 30 ft.
+**Armor Class** 10
+
+**Hit Points** 4 (1d8)
+
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|

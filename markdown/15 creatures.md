@@ -37,7 +37,11 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 *Small plant, unaligned*
 
-**Armor Class** 9 **Hit Points** 10 (3d6) **Speed** 20 ft.
+**Armor Class** 9
+
+**Hit Points** 10 (3d6)
+
+**Speed** 20 ft.
 
 | STR    | DEX    | CON     | INT     | WIS     | CHA    |
 |--------|--------|---------|---------|---------|--------|
@@ -1275,7 +1279,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 *Small beast, unaligned*
 
-**Armor Class** 12 **Hit Points** 7 (2d6) **Speed** 30 ft.
+**Armor Class** 12
+
+**Hit Points** 7 (2d6)
+
+**Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
@@ -1523,7 +1531,11 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 *Medium beast, unaligned*
 
-**Armor Class** 13 **Hit Points** 9 (2d8) **Speed** 40 ft.
+**Armor Class** 13
+
+**Hit Points** 9 (2d8)
+
+**Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
@@ -1697,7 +1709,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 *Small beast, unaligned*
 
-**Armor Class** 12 **Hit Points** 3 (1d6) **Speed** 40 ft.
+**Armor Class** 12
+
+**Hit Points** 3 (1d6)
+
+**Speed** 40 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
@@ -2120,9 +2136,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 0 ft., swim 40 ft.
 
-**STR DEX CON**
-
-2 (−4) 16 (+3) 9 (−1)
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+|--------|---------|--------|--------|--------|--------|
+| 2 (−4) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (-2) | 2 (−4) |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -2390,7 +2406,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Medium swarm of Tiny beasts, unaligned*
 
-**Armor Class** 12 **Hit Points** 22 (5d8) **Speed** 0 ft., fly 30 ft.
+**Armor Class** 12
+
+**Hit Points** 22 (5d8)
+
+**Speed** 0 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
