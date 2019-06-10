@@ -2727,7 +2727,11 @@ Different kinds of insects can gather in swarms, and each swarm has the special 
 
 **Damage Immunities** cold
 
-**Senses** passive Perception 15 **Languages** Common, Giant, Winter Wolf **Challenge** 3 (700 XP)
+**Senses** passive Perception 15
+
+**Languages** Common, Giant, Winter Wolf
+
+**Challenge** 3 (700 XP)
 
 ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 

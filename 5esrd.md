@@ -218,7 +218,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 ***Size.*** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-***Speed.*** Your base walking speed is 30 feet. 
+***Speed.*** Your base walking speed is 30 feet.
 
 ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
@@ -26768,7 +26768,11 @@ Different kinds of insects can gather in swarms, and each swarm has the special 
 
 **Damage Immunities** cold
 
-**Senses** passive Perception 15 **Languages** Common, Giant, Winter Wolf **Challenge** 3 (700 XP)
+**Senses** passive Perception 15
+
+**Languages** Common, Giant, Winter Wolf
+
+**Challenge** 3 (700 XP)
 
 ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
