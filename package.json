@@ -4,12 +4,13 @@
   "description": "Conversion of the D&D 5e SRD from markdown to JSON",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
   },
   "author": "Ben Morton <ben.morton91@gmail.com> (http://bmorton.co.uk/)",
   "license": "MIT",
   "dependencies": {
-    "marked": "^0.3.6",
+    "marked": "^0.8.0",
     "yamljs": "^0.2.8"
   },
   "devDependencies": {

@@ -15586,9 +15586,9 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 **Psychic Drain (Costs 2 Actions).** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 
-### Angels
+#### Angels
 
-#### Deva
+##### Deva
 
 *Medium celestial, lawful good*
 
@@ -15637,7 +15637,7 @@ At will: *detect evil and good*
 
 In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
 
-#### Planetar
+##### Planetar
 
 *Large celestial, lawful good*
 
@@ -15685,7 +15685,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 ***Healing Touch (4/Day).*** The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-#### Solar
+##### Solar
 
 *Large celestial, lawful good*
 
@@ -15749,9 +15749,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the *lesser restoration* spell removes the blindness.
 
-### Animated Objects
+#### Animated Objects
 
-#### Animated Armor
+##### Animated Armor
 
 *Medium construct, unaligned*
 
@@ -15787,7 +15787,7 @@ Constitution saving throw against the caster’s spell save DC or fall unconscio
 
 ***Slam.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
-#### Flying Sword
+##### Flying Sword
 
 *Small construct, unaligned*
 
@@ -15821,7 +15821,7 @@ Constitution saving throw against the caster’s spell save DC or fall unconscio
 
 ***Longsword.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage.
 
-#### Rug of Smothering
+##### Rug of Smothering
 
 *Large construct, unaligned*
 
@@ -16312,9 +16312,9 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 ***Darkness Aura (1/Day).*** A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
-### Demons
+#### Demons
 
-#### Balor
+##### Balor
 
 *Huge fiend (demon), chaotic evil*
 
@@ -16360,7 +16360,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-#### Dretch
+##### Dretch
 
 *Small fiend (demon), chaotic evil*
 
@@ -16396,7 +16396,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 ***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can’t take reactions.
 
-#### Glabrezu
+##### Glabrezu
 
 *Large fiend (demon), chaotic evil*
 
@@ -16439,7 +16439,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Fist.** Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
-#### Hezrou
+##### Hezrou
 
 *Large fiend (demon), chaotic evil*
 
@@ -16479,7 +16479,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Claw.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
-#### Marilith
+##### Marilith
 
 *Large fiend (demon), chaotic evil*
 
@@ -16527,7 +16527,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Parry.*** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 
-#### Nalfeshnee
+##### Nalfeshnee
 
 *Large fiend (demon), chaotic evil*
 
@@ -16569,7 +16569,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-#### Quasit
+##### Quasit
 
 *Tiny fiend (demon, shapechanger), chaotic evil*
 
@@ -16609,7 +16609,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Invisibility.*** The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
 
-#### Vrock
+##### Vrock
 
 *Large fiend (demon), chaotic evil*
 
@@ -16651,9 +16651,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn’t a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock’s next turn.
 
-### Devils
+#### Devils
 
-#### Barbed Devil
+##### Barbed Devil
 
 *Medium fiend (devil), lawful evil*
 
@@ -16699,7 +16699,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Hurl Flame.** Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
-#### Bearded Devil
+##### Bearded Devil
 
 *Medium fiend (devil), lawful evil*
 
@@ -16741,7 +16741,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Glaive.** Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 
-#### Bone Devil
+##### Bone Devil
 
 *Large fiend (devil), lawful evil*
 
@@ -16783,7 +16783,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Sting.** Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### Chain Devil
+##### Chain Devil
 
 *Medium fiend (devil), lawful evil*
 
@@ -16829,7 +16829,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 ***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature’s departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
-#### Erinyes
+##### Erinyes
 
 *Medium fiend (devil), lawful evil*
 
@@ -16873,7 +16873,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
-#### Horned Devil
+##### Horned Devil
 
 *Large fiend (devil), lawful evil*
 
@@ -16915,7 +16915,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 ***Hurl Flame.** Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
-#### Ice Devil
+##### Ice Devil
 
 *Large fiend (devil), lawful evil*
 
@@ -16945,7 +16945,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 ***Devil’s Sight.*** Magical darkness doesn’t impede the devil’s darkvision.
 
-#### Imp
+##### Imp
 
 *Tiny fiend (devil, shapechanger), lawful evil*
 
@@ -17004,7 +17004,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 ***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 
-#### Lemure
+##### Lemure
 
 *Medium fiend (devil), lawful evil*
 
@@ -17038,7 +17038,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 ***Fist.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
-#### Pit Fiend
+##### Pit Fiend
 
 *Large fiend (devil), lawful evil*
 
@@ -17089,9 +17089,9 @@ At will: *detect magic*, *fireball*
 
 ***Tail.** Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage.
 
-### Dinosaurs
+#### Dinosaurs
 
-#### Plesiosaurus
+##### Plesiosaurus
 
 *Large beast, unaligned*
 
@@ -17119,7 +17119,7 @@ At will: *detect magic*, *fireball*
 
 ***Bite.** Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) piercing damage.
 
-#### Triceratops
+##### Triceratops
 
 *Huge beast, unaligned*
 
@@ -17149,7 +17149,7 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 ***Stomp.** Melee Weapon Attack:* +9 to hit, reach 5 ft., one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
-#### Tyrannosaurus Rex
+##### Tyrannosaurus Rex
 
 *Huge beast, unaligned*
 
@@ -17217,11 +17217,11 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger’s concentration isn’t broken (as if concentrating on a spell). While reading the target’s mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 
-### Dragons, Chromatic
+#### Dragons, Chromatic
 
-#### Black Dragon
+##### Black Dragon
 
-##### Ancient Black Dragon
+###### Ancient Black Dragon
 
 *Gargantuan dragon, chaotic evil*
 
@@ -17275,7 +17275,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Black Dragon
+###### Adult Black Dragon
 
 *Huge dragon, chaotic evil*
 
@@ -17329,7 +17329,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Black Dragon
+###### Young Black Dragon
 
 *Large dragon, chaotic evil*
 
@@ -17367,7 +17367,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 
-##### Black Dragon Wyrmling
+###### Black Dragon Wyrmling
 
 *Medium dragon, chaotic evil*
 
@@ -17401,9 +17401,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-#### Blue Dragon
+##### Blue Dragon
 
-##### Ancient Blue Dragon
+###### Ancient Blue Dragon
 
 *Gargantuan dragon, lawful evil*
 
@@ -17455,7 +17455,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Blue Dragon
+###### Adult Blue Dragon
 
 *Huge dragon, lawful evil*
 
@@ -17507,7 +17507,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Blue Dragon
+###### Young Blue Dragon
 
 *Large dragon, lawful evil*
 
@@ -17543,7 +17543,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-##### Blue Dragon Wyrmling
+###### Blue Dragon Wyrmling
 
 *Medium dragon, lawful evil*
 
@@ -17575,9 +17575,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-#### Green Dragon
+##### Green Dragon
 
-##### Ancient Green Dragon
+###### Ancient Green Dragon
 
 *Gargantuan dragon, lawful evil*
 
@@ -17633,7 +17633,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Green Dragon
+###### Adult Green Dragon
 
 *Huge dragon, lawful evil*
 
@@ -17689,7 +17689,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Green Dragon
+###### Young Green Dragon
 
 *Large dragon, lawful evil*
 
@@ -17729,7 +17729,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-##### Green Dragon Wyrmling
+###### Green Dragon Wyrmling
 
 *Medium dragon, lawful evil*
 
@@ -17765,9 +17765,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
-#### Red Dragon
+##### Red Dragon
 
-##### Ancient Red Dragon
+###### Ancient Red Dragon
 
 *Gargantuan dragon, chaotic evil*
 
@@ -17819,7 +17819,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Red Dragon
+###### Adult Red Dragon
 
 *Huge dragon, chaotic evil*
 
@@ -17871,7 +17871,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Red Dragon
+###### Young Red Dragon
 
 *Large dragon, chaotic evil*
 
@@ -17907,7 +17907,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 
-##### Red Dragon Wyrmling
+###### Red Dragon Wyrmling
 
 *Medium dragon, chaotic evil*
 
@@ -17939,9 +17939,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
-#### White Dragon
+##### White Dragon
 
-##### Ancient White Dragon
+###### Ancient White Dragon
 
 *Gargantuan dragon, chaotic evil*
 
@@ -17995,7 +17995,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult White Dragon
+###### Adult White Dragon
 
 *Huge dragon, chaotic evil*
 
@@ -18050,7 +18050,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 
-##### Young White Dragon
+###### Young White Dragon
 
 *Large dragon, chaotic evil*
 
@@ -18088,7 +18088,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
-##### White Dragon Wyrmling
+###### White Dragon Wyrmling
 
 *Medium dragon, chaotic evil*
 
@@ -18120,11 +18120,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
-### Dragons, Metallic
+#### Dragons, Metallic
 
-#### Brass Dragon
+##### Brass Dragon
 
-##### Ancient Brass Dragon
+###### Ancient Brass Dragon
 
 *Gargantuan dragon, chaotic good*
 
@@ -18184,7 +18184,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Brass Dragon
+###### Adult Brass Dragon
 
 *Huge dragon, chaotic good*
 
@@ -18240,7 +18240,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Brass Dragon
+###### Young Brass Dragon
 
 *Large dragon, chaotic good*
 
@@ -18280,7 +18280,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-##### Brass Dragon Wyrmling
+###### Brass Dragon Wyrmling
 
 *Medium dragon, chaotic good*
 
@@ -18316,9 +18316,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-#### Bronze Dragon
+##### Bronze Dragon
 
-##### Ancient Bronze Dragon
+###### Ancient Bronze Dragon
 
 *Gargantuan dragon, lawful good*
 
@@ -18380,7 +18380,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Bronze Dragon
+###### Adult Bronze Dragon
 
 *Huge dragon, lawful good*
 
@@ -18442,7 +18442,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Bronze Dragon
+###### Young Bronze Dragon
 
 *Large dragon, lawful good*
 
@@ -18484,7 +18484,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
-##### Bronze Dragon Wyrmling
+###### Bronze Dragon Wyrmling
 
 *Medium dragon, lawful good*
 
@@ -18522,9 +18522,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
-#### Copper Dragon
+##### Copper Dragon
 
-##### Ancient Copper Dragon
+###### Ancient Copper Dragon
 
 *Gargantuan dragon, chaotic good*
 
@@ -18584,7 +18584,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Copper Dragon
+###### Adult Copper Dragon
 
 *Huge dragon, chaotic good*
 
@@ -18640,7 +18640,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Copper Dragon
+###### Young Copper Dragon
 
 *Large dragon, chaotic good*
 
@@ -18680,7 +18680,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-##### Copper Dragon Wyrmling
+###### Copper Dragon Wyrmling
 
 *Medium dragon, chaotic good*
 
@@ -18716,9 +18716,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-#### Gold Dragon
+##### Gold Dragon
 
-##### Ancient Gold Dragon
+###### Ancient Gold Dragon
 
 *Gargantuan dragon, lawful good*
 
@@ -18780,7 +18780,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Gold Dragon
+###### Adult Gold Dragon
 
 *Huge dragon, lawful good*
 
@@ -18842,7 +18842,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Gold Dragon
+###### Young Gold Dragon
 
 *Large dragon, lawful good*
 
@@ -18884,7 +18884,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-##### Gold Dragon Wyrmling
+###### Gold Dragon Wyrmling
 
 *Medium dragon, lawful good*
 
@@ -18922,9 +18922,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### Silver Dragon
+##### Silver Dragon
 
-##### Ancient Silver Dragon
+###### Ancient Silver Dragon
 
 *Gargantuan dragon, lawful good*
 
@@ -18984,7 +18984,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Adult Silver Dragon
+###### Adult Silver Dragon
 
 *Huge dragon, lawful good*
 
@@ -19044,7 +19044,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-##### Young Silver Dragon
+###### Young Silver Dragon
 
 *Large dragon, lawful good*
 
@@ -19084,7 +19084,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-##### Silver Dragon Wyrmling
+###### Silver Dragon Wyrmling
 
 *Medium dragon, lawful good*
 
@@ -19554,9 +19554,9 @@ At will: *dancing lights*
 Monsters (F)
 ------------
 
-### Fungi
+#### Fungi
 
-#### Shrieker
+##### Shrieker
 
 *Medium plant, unaligned*
 
@@ -19584,7 +19584,7 @@ Monsters (F)
 
 ***Shriek.*** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
 
-#### Violet Fungus
+##### Violet Fungus
 
 *Medium plant, unaligned*
 
@@ -23375,9 +23375,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 Monsters (V)
 ------------
 
-### Vampires
+#### Vampires
 
-#### Vampire
+##### Vampire
 
 *Medium undead (shapechanger), lawful evil*
 
@@ -23453,7 +23453,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **Bite (Costs 2 Actions).** The vampire makes one bite attack.
 
-#### Vampire Spawn
+##### Vampire Spawn
 
 *Medium undead, neutral evil*
 
@@ -23698,9 +23698,9 @@ Monsters (X)
 Monsters (Z)
 ------------
 
-### Zombies
+#### Zombies
 
-#### Zombie
+##### Zombie
 
 *Medium undead, neutral evil*
 
@@ -23732,7 +23732,7 @@ Monsters (Z)
 
 ***Slam.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
-#### Ogre Zombie
+##### Ogre Zombie
 
 *Large undead, neutral evil*
 
@@ -26950,17 +26950,17 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 ***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *disguise self* and *invisibility* at will and has the following wizard spells prepared:
 
 Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
-1st level (4 slots): *detect magic*, *identify*, *mage armor*\*, *magic missile*
+1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic missile*
 2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
 3rd level (3 slots): *counterspell*, *fly*, *lightning bolt*
-4th level (3 slots): *banishment*, *fire shield*, *stoneskin*\*
+4th level (3 slots): *banishment*, *fire shield*, *stoneskin*
 5th level (3 slots): *cone of cold*, *scrying*, *wall of force*
 6th level (1 slot): *globe of invulnerability*
 7th level (1 slot): *teleport*
-8th level (1 slot): *mind blank*\*
+8th level (1 slot): *mind blank*
 9th level (1 slot): *time stop*
 
-\**The archmage casts these spells on itself before combat.*
+*The archmage casts these spells on itself before combat.*
 
 **Actions**
 
