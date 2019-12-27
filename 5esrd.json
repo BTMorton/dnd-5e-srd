@@ -24235,7 +24235,7 @@
                     "**Damage Vulnerabilities** cold",
                     "**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks",
                     "**Damage Immunities** fire",
-                    "**Sense**s darkvision 60 ft., passive Perception 10",
+                    "**Senses** darkvision 60 ft., passive Perception 10",
                     "**Languages** Ignan",
                     "**Challenge** 5 (1,800 XP)",
                     "***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.",
@@ -24275,7 +24275,7 @@
                         }
                     },
                     "**Skills** Perception +2, Performance +6, Stealth +5",
-                    "**Sense**s passive Perception 12",
+                    "**Senses** passive Perception 12",
                     "**Languages** Common, Elvish, Sylvan",
                     "**Challenge** 1/2 (100 XP)",
                     "***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.",

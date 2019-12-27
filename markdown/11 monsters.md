@@ -7484,7 +7484,7 @@ Monsters (S)
 
 **Damage Immunities** fire
 
-**Sense**s darkvision 60 ft., passive Perception 10
+**Senses** darkvision 60 ft., passive Perception 10
 
 **Languages** Ignan
 
@@ -7518,7 +7518,7 @@ Monsters (S)
 
 **Skills** Perception +2, Performance +6, Stealth +5
 
-**Sense**s passive Perception 12
+**Senses** passive Perception 12
 
 **Languages** Common, Elvish, Sylvan
 
