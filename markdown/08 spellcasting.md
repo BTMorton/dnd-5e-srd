@@ -816,8 +816,7 @@ Spell Lists
 - True Seeing
 
 #### 7th Level
-- Delayed Blast
-- Fireball
+- Delayed Blast Fireball
 - Etherealness
 - Finger of Death
 - Fire Storm
@@ -1047,8 +1046,7 @@ Spell Lists
 - Phantasmal Killer
 - Polymorph
 - Private Sanctum
-- Resilient
-- Sphere
+- Resilient Sphere
 - Secret Chest
 - Stone Shape
 - Stoneskin
@@ -1102,8 +1100,7 @@ Spell Lists
 
 #### 7th Level
 - Arcane Sword
-- Delayed Blast
-- Fireball
+- Delayed Blast Fireball
 - Etherealness
 - Finger of Death
 - Forcecage
